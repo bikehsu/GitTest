@@ -1,6 +1,6 @@
 ddd
-PC1-2:
-PC1-3:
-NB1:
-NB2:
-NB3:
+PC1-PC:
+PC1-PC:
+NB1-PC2:
+NB2-PC2:
+NB3-PC2:
